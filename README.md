@@ -6,10 +6,9 @@ This project allows users to generate random gradient colors and update each sid
 
 ## 🌐 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge\&logo=netlify)](https://69c2907a35f186cc0018a069--shimmering-trifle-dd97e6.netlify.app/)
-
+[![Live Demo] 
 👉 **Try it here:**
-https://69c2907a35f186cc0018a069--shimmering-trifle-dd97e6.netlify.app/
+https://gradient-generator-web-app.vercel.app/
 
 
 🚀 Features
